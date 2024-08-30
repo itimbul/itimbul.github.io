@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itimbul.github.io/sitemap.html.gz
+Sitemap: https://itimbul.github.io/app/sitemap.html.gz
+Sitemap: https://itimbul.github.io/assets/sitemap.html.gz
+Sitemap: https://itimbul.github.io/css/sitemap.html.gz
+Sitemap: https://itimbul.github.io/includes/sitemap.html.gz
+Sitemap: https://itimbul.github.io/item/sitemap.html.gz
+Sitemap: https://itimbul.github.io/src/sitemap.html.gz
